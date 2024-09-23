@@ -18,4 +18,5 @@ Para rodar este projeto, é necessário ter o **Node.js** instalado.
 5. Acesse o link gerado
 
 ### Observações
-Caso ocorra um problema de CORS ao tentar conectar o frontend ao backend, verifique se a URL do frontend está incluída nas políticas de CORS do backend.
+- Caso ocorra um problema de CORS ao tentar conectar o frontend ao backend, verifique se a URL do frontend está incluída nas políticas de CORS do backend.
+- Link do BackEnd: <https://github.com/ChristianVada/Atak-Teste-BackEnd>
