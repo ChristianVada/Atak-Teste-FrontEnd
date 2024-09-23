@@ -1,7 +1,7 @@
 ## Teste Atak - Frontend React
 Este projeto é parte de um teste técnico que serve como a interface web para uma aplicação backend. Ele se conecta a uma API ASP.NET e interage com o sistema de autenticação JWT.
 
-Deploy: <https://atak-teste-front-q2yg0moib-christianvadas-projects.vercel.app>
+Deploy: <https://atak-teste-front-end.vercel.app/>
 
 ### Tecnologias Utilizadas
 - **React** 18
