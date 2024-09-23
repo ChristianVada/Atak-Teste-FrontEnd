@@ -22,8 +22,9 @@ const EncaminharEmail = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
+    const quantidadeConvertInt = Number(quantidade);
     const dataEmail = {
-      Quantidade: quantidade,
+      Quantidade: quantidadeConvertInt,
       Destinatario: destinatario,
       Assunto: assunto,
       CorpoEmail: corpoEmail,
