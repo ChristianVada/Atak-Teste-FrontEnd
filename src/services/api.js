@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const apiUser = axios.create({
-  baseURL: "http://localhost:5201",
+  baseURL: "https://atak-teste-backend-production.up.railway.app",
   timeout: 7000,
 });
 
